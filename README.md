@@ -6,3 +6,5 @@ A Brochure for the homomorphic cryptography library called Lattigo, which includ
 ---
 Ps: This work is ongoing and I will upload the finished documents including English and Chinese versions later.
 ---
+<a href="" title="超链接title">超链接显示名</a>
+You can find the document being written here => <a href="https://stingy-puppy-fdf.notion.site/Lattigo-e7854ce1b2444defa65519605b0413fe?pvs=4">Lattigo</a>
